@@ -1,0 +1,1 @@
+The pin manager for managing web address and use them efficiently.
